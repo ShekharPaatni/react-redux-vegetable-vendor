@@ -1,0 +1,37 @@
+.midDiv{
+    width: 600px;
+    margin: 7% auto;
+}
+.txt{
+    width: 100%;
+    line-height: 31px;
+    border-radius: 7px;
+    padding: 2px;
+    font-size: 16px;
+    color: #FF5733;
+}
+.txt:focus{
+    outline: none;
+}
+.err{
+    color: red;
+    font-size: 11px;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+td,th{
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    width: 125px;
+    background-color: #ccc;
+    color: #827676;
+    word-wrap: break-word;
+}
+.btn{
+    background: none;
+    border: none
+;
+}
